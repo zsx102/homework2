@@ -1,0 +1,57 @@
+body{
+  font-family:Lucida Grande,sans-serif;
+  background-color:black;
+  text-align:center;
+}
+h1{
+  font-size: 64px;
+  color:white;
+}
+img{
+  width:550px;
+  overflow:hidden;
+}
+h2{
+  font-size:32px;
+  color:white;
+  text-shadow:4px 4px 2px black;
+}
+p{
+  font-size:16px;
+  padding-top:15px;
+  color:white;
+}
+div{
+  padding:30px 30px;
+  min-height:100px;
+}
+#intro{
+  text-align:left;
+}
+#red{
+  text-align:right;
+  background-color:red;
+}
+#blue{
+  text-align:left;
+  background-color:blue;
+}
+#yellow{
+  text-align:right;
+  background-color:yellow;
+}
+#yellow h2{
+  color:black;
+  text-shadow:4px 4px 2px grey;
+}
+#yellow p{
+  color:black;
+}
+#green{
+  text-align:left;
+  background-color:green;
+}
+footer{
+  text-align:center;
+  padding-bottom:15px;
+}
